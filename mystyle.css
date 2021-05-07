@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(211, 195, 240);
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+.title {
+    border-style: groove;
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 7px;
+    margin-bottom: -35;
+}
+.information{
+    border-style: groove;
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 7px;
+    font-size: x-small;
+    
+
+}
+.image{
+    border-radius: 10px;
+    margin-left: 70;
+    margin-top: -20;
+}
+.dir{
+    border-style: groove;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 7px;
+    margin-left: 70px;
+    padding: 10px;
+}
+.hoved3{
+    margin-left: 70px;
+    font-size: larger;
+    text-decoration: underline;
+}
+.hoved4{
+    margin-left: 70px;
+    font-size: large;
+}
+.job{
+    margin-left: 70px;
+    margin-top: -20;
+    font-style: italic;
+}
